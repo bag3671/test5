@@ -10185,7 +10185,7 @@
             "version": "[1.6.4, 1.6.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\bag36\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
       }
     }
   },
